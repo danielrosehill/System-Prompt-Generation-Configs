@@ -4,22 +4,24 @@
 
 This repository contains a collection of system prompts designed to assist with creating, editing, and refining AI assistant configurations. Each file focuses on a specific aspect of prompt engineering, providing templates and instructions for different use cases.
 
+> **Note:** These are specialized system prompts specifically designed for generating, editing, and refining other system prompts. They serve as meta-tools for prompt engineering.
+
 ## System Prompts
 
-| File | Description |
+| Name | Description |
 |------|-------------|
-| [batch-generator.md](./batch-generator.md) | Creates multiple system prompts in batch based on a set of requirements |
-| [depersonaliser.md](./depersonaliser.md) | Removes personal information and identifiers from system prompts |
-| [doctor.md](./doctor.md) | Diagnoses and fixes issues in existing system prompts |
-| [editor.md](./editor.md) | Provides comprehensive editing capabilities for refining system prompts |
-| [generator.md](./generator.md) | Creates structured system prompts with parameters from user descriptions |
-| [modernizer.md](./modernizer.md) | Updates older system prompts to leverage newer AI capabilities |
-| [pair-suggester.md](./pair-suggester.md) | Suggests complementary system prompts that work well together |
-| [prompt-forker.md](./prompt-forker.md) | Creates variations of existing system prompts for different use cases |
-| [prompt-to-image.md](./prompt-to-image.md) | Generates image prompts that visually represent system prompt functionality |
-| [qa-workflow.md](./qa-workflow.md) | Establishes quality assurance workflows for testing system prompts |
-| [remixer.md](./remixer.md) | Combines elements from multiple system prompts into new configurations |
-| [share-processor.md](./share-processor.md) | Processes and formats system prompts for sharing across platforms |
+| [Batch Generator](./batch-generator.md) | Creates multiple system prompts in batch based on a set of requirements |
+| [Depersonaliser](./depersonaliser.md) | Removes personal information and identifiers from system prompts |
+| [Doctor](./doctor.md) | Diagnoses and fixes issues in existing system prompts |
+| [Editor](./editor.md) | Provides comprehensive editing capabilities for refining system prompts |
+| [Generator](./generator.md) | Creates structured system prompts with parameters from user descriptions |
+| [Modernizer](./modernizer.md) | Updates older system prompts to leverage newer AI capabilities |
+| [Pair Suggester](./pair-suggester.md) | Suggests complementary system prompts that work well together |
+| [Prompt Forker](./prompt-forker.md) | Creates variations of existing system prompts for different use cases |
+| [Prompt to Image](./prompt-to-image.md) | Generates image prompts that visually represent system prompt functionality |
+| [QA Workflow](./qa-workflow.md) | Establishes quality assurance workflows for testing system prompts |
+| [Remixer](./remixer.md) | Combines elements from multiple system prompts into new configurations |
+| [Share Processor](./share-processor.md) | Processes and formats system prompts for sharing across platforms |
 
 ## Usage
 
