@@ -8,21 +8,26 @@ This repository contains a collection of system prompts designed to assist with 
 
 ## System Prompts
 
-| Name | Category | Description |
-|------|----------|-------------|
-| [Batch Generator](./generators/batch-generator.md) | Generator | Creates multiple system prompts in batch based on a set of requirements |
-| [Conversational Generator](./generators/conversational-generators.md) | Generator | Creates structured system prompts with parameters from user descriptions |
-| [Structured Generator](./generators/structured-generator.md) | Generator | Creates system prompts that output responses in JSON format |
-| [Depersonaliser](./redaction/depersonaliser.md) | Redaction | Removes personal information and identifiers from system prompts |
-| [Share Processor](./redaction/share-processor.md) | Redaction | Processes and formats system prompts for sharing across platforms |
-| [Doctor](./doctor.md) | Review & Edit | Diagnoses and fixes issues in existing system prompts |
-| [Review and Edit](./review-and-edit.md) | Review & Edit | Provides comprehensive editing capabilities for refining system prompts |
-| [Modernizer](./updaters/modernizer.md) | Updater | Updates older system prompts to leverage newer AI capabilities |
-| [Remixer](./updaters/remixer.md) | Updater | Combines elements from multiple system prompts into new configurations |
-| [Pair Suggester](./pair-suggester.md) | Ideation | Suggests complementary system prompts that work well together |
-| [Prompt Forker](./prompt-forker.md) | Transformation | Creates variations of existing system prompts for different use cases |
-| [Prompt to Image](./prompt-to-image.md) | Visualization | Generates image prompts that visually represent system prompt functionality |
-| [QA Workflow](./alt-workflows/qa-workflow.md) | Workflow | Establishes quality assurance workflows for testing system prompts |
+| Name | Category | Description | Date Added |
+|------|----------|-------------|------------|
+| [Batch Generator](./generators/batch-generator.md) | Generator | Creates multiple system prompts in batch based on a set of requirements | 24/03/2025 |
+| [Conversational Generator](./generators/conversational-generators.md) | Generator | Creates structured system prompts with parameters from user descriptions | 24/03/2025 |
+| [Structured Generator](./generators/structured-generator.md) | Generator | Creates system prompts that output responses in JSON format | 24/03/2025 |
+| [Depersonaliser](./redaction/depersonaliser.md) | Redaction | Removes personal information and identifiers from system prompts | 24/03/2025 |
+| [Share Processor](./redaction/share-processor.md) | Redaction | Processes and formats system prompts for sharing across platforms | 24/03/2025 |
+| [Doctor](./doctor.md) | Review & Edit | Diagnoses and fixes issues in existing system prompts | 24/03/2025 |
+| [Review and Edit](./review-and-edit.md) | Review & Edit | Provides comprehensive editing capabilities for refining system prompts | 24/03/2025 |
+| [Modernizer](./updaters/modernizer.md) | Updater | Updates older system prompts to leverage newer AI capabilities | 24/03/2025 |
+| [Remixer](./updaters/remixer.md) | Updater | Combines elements from multiple system prompts into new configurations | 24/03/2025 |
+| [Pair Suggester](./pair-suggester.md) | Ideation | Suggests complementary system prompts that work well together | 24/03/2025 |
+| [Prompt Forker](./prompt-forker.md) | Transformation | Creates variations of existing system prompts for different use cases | 24/03/2025 |
+| [Prompt to Image](./prompt-to-image.md) | Visualization | Generates image prompts that visually represent system prompt functionality | 24/03/2025 |
+| [QA Workflow](./alt-workflows/qa-workflow.md) | Workflow | Establishes quality assurance workflows for testing system prompts | 24/03/2025 |
+| [Prompt Parameter Calculator](./analysis/prompt-parameter-calculator.md) | Analysis | Analyzes and calculates metrics for system prompts including token count and complexity | 26/03/2025 |
+| [System Prompt Stylistic Editor](./style/system-prompt-stylistic-editor.md) | Style | Translates system prompts between different stylistic formats and platform conventions | 26/03/2025 |
+| [Prompt Security Auditor](./security/prompt-security-auditor.md) | Security | Identifies vulnerabilities and security risks in system prompts | 26/03/2025 |
+| [Multi-Modal Prompt Adapter](./multimodal/multimodal-prompt-adapter.md) | Multi-Modal | Transforms text-only system prompts to leverage vision and other modalities | 26/03/2025 |
+| [System Prompt Localizer](./localization/prompt-localizer.md) | Localization | Adapts system prompts for different cultural and linguistic contexts | 26/03/2025 |
 
 ## Usage
 
